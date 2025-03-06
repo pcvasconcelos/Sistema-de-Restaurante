@@ -1,5 +1,7 @@
 # Sistema-de-Restaurante
-I am trying to build a system. Lets see if it works xD
+I am trying to build a system. 
+Lets see if it works xD
+
 🍽️ Restaurant Management System
 
 📌 Project Overview
